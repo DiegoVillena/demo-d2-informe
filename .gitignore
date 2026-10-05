@@ -1,0 +1,21 @@
+# Entorno
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secretos (NUNCA commitear)
+.env
+
+# Cachés del sistema
+.DS_Store
+Thumbs.db
+
+# Metadata interna de ZCode (sesión/plans)
+.zcode/
+
+# Locks de LibreOffice/Excel abiertos
+.~lock.*#

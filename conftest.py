@@ -1,0 +1,1 @@
+# Hace importable informe.py (raíz del repo) al correr pytest desde cualquier carpeta
